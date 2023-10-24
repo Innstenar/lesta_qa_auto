@@ -1,2 +1,2 @@
-# lesta_qa_auto
-Trainee QA Automation - Test Assignment
+# Lesta Games
+## Тестовое задание на позицию Trainee QA Automation Specialist в проект Мир Кораблей
